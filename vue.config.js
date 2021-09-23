@@ -6,7 +6,7 @@ module.exports = {
      .set('@', resolve('src'))
      .set('asstes', resolve('src/asstes'))
      .set('components', resolve('src/components'))
-     .set('view', resolve('src/view'))
+     .set('views', resolve('src/views'))
   },
   publicPath:'/',
   outputDir:'dist',
